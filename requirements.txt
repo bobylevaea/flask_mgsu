@@ -9,7 +9,7 @@ joblib
 MarkupSafe
 numpy
 packaging
-scikit-learn==1.2.2
+scikit-learn
 scipy
 threadpoolctl
 waitress
